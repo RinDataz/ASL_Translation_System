@@ -18,7 +18,8 @@ Our initial focus was on the ASL alphabet, including 29 classes: each letter and
 
 
 ## Modeling
-### CNN Model
+
+### [CNN Model](https://github.com/RinDataz/ASL_Translation_System/tree/main/CNN_Model)
 The CNN model was built using a Keras Sequential architecture for high accuracy in image classification. After preprocessing and splitting the dataset into training and test sets, the model achieved remarkable results:
 - **Training Accuracy**: 99.6%
 - **Test Accuracy**: 98%
@@ -49,7 +50,7 @@ The training loss consistently decreased and approached zero, indicating that th
 The validation loss shows a steep decline initially, mirroring the validation accuracy improvement. While it fluctuates slightly across epochs, it ultimately stabilizes close to the training loss, which further indicates good generalization.
 
 
-### Random Forest Model
+### [Random Forest Model](https://github.com/RinDataz/ASL_Translation_System/tree/main/RandomForestModel)
 To enhance real-time performance, we used a Random Forest Classifier trained on hand landmark data extracted using Mediapipe. This model operates on a confidence threshold to ensure only high-certainty predictions are displayed. The Random Forest model achieved:
 - **Accuracy**: 99.9% on validation data
 
@@ -65,7 +66,7 @@ The **confusion matrix** shows that the model performs exceptionally well across
 
 The integration of CNN and Random Forest allows the system to operate smoothly in real-time, effectively balancing accuracy and efficiency.
 
-## User Interface
+## [User Interface](https://github.com/RinDataz/ASL_Translation_System/tree/main/RandomForestModel/Web_testing)
 
 ![image](https://github.com/user-attachments/assets/121e373a-dcef-4e23-bd19-08465ce7ce10)
 
@@ -74,7 +75,7 @@ For real-time ASL gesture recognition, we leveraged a Random Forest model combin
 Key steps in the real-time recognition process:
 
 
-•	Hand Landmark Detection: The Mediapipe library captures and tracks hand landmarks in each video frame, generating x, y coordinates of key points on the user's hand.
+•	[Hand Landmark Detection](https://github.com/RinDataz/ASL_Translation_System/blob/main/landmark_data.pkl): The Mediapipe library captures and tracks hand landmarks in each video frame, generating x, y coordinates of key points on the user's hand.
 
 •	Data Preparation: To ensure consistency with our model’s input requirements, the landmark data is normalized and arranged to match the model’s expected input length.
 
