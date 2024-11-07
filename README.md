@@ -1,5 +1,9 @@
 # Yad-Tech: Real-Time ASL Recognition System
+
 ![image](https://github.com/user-attachments/assets/a291aaf8-d2fe-454e-9f3e-b598a16eeb43)
+
+![image](https://github.com/user-attachments/assets/583b4ad6-5f54-492b-a6d6-af7771049c26)
+
 
 ## Overview
 Welcome to the Yad-Tech project repository! This project was developed as part of the **Samsung x Misk Innovation Campus** program. Our aim is to bridge the communication gap between the Deaf and hearing communities by translating American Sign Language (ASL) gestures into text in real-time. This tool also serves as an educational resource for learning ASL.
