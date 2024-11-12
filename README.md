@@ -72,7 +72,7 @@ The integration of CNN and Random Forest allows the system to operate smoothly i
 
 ## [User Interface](https://github.com/RinDataz/ASL_Translation_System/tree/main/RandomForestModel/Web_testing)
 
-![image](https://github.com/user-attachments/assets/121e373a-dcef-4e23-bd19-08465ce7ce10)
+<img width="948" alt="Screenshot 2024-11-12 113338" src="https://github.com/user-attachments/assets/75218da9-b9c2-4645-8549-329b8f7a166a">
 
 
 For real-time ASL gesture recognition, we leveraged a Random Forest model combined with a webcam feed and the Mediapipe library for hand tracking. Mediapipe extracts hand landmarks, allowing us to capture and preprocess real-time gesture data from users’ hands, which is then passed through the Random Forest model for prediction. The model classifies each gesture and updates the output text based on the identified sign language letter or action.
