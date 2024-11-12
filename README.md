@@ -119,7 +119,7 @@ An ASL Translator using CNN for image classification and real-time hand detectio
 
 Rinad Almjishai (Repo Owner)
 
-Wael habib Alkiyani
+[Wael habib Alkiyani](https://github.com/Waelhab)
 
 [Jawad Abdullah Sherbini](https://github.com/Jawadsherbini) 
 
