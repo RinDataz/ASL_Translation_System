@@ -117,17 +117,17 @@ An ASL Translator using CNN for image classification and real-time hand detectio
 
 ## Team Members 
 
-Rinad Almjishai 
+Rinad Almjishai (Repo Owner)
 
 Wael habib Alkiyani
 
-Jawad Abdullah Sherbini 
+[Jawad Abdullah Sherbini](https://github.com/Jawadsherbini) 
 
-Albatul Ali Abusaq
+[Albatul Ali Abusaq](https://github.com/Albatulabusaq)
 
-Luluh Khalid Alyahya
+[Luluh Khalid Alyahya](https://github.com/Luluh-Alyahya)
 
-Yasser Ahmed Alzahrani
+[Yasser Ahmed Alzahrani](https://github.com/Yasser-Alzahrani)
 
-Ali Abu Ali 
+[Ali Abu Ali](https://github.com/aliabuali)
 
