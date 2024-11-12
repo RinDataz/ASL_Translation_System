@@ -114,3 +114,20 @@ An ASL Translator using CNN for image classification and real-time hand detectio
 - [“ASL Alphabet Dataset on Kaggle”](https://www.kaggle.com/datasets/grassknoted/asl-alphabet/code?datasetId=23079&searchQuery=cnn)
 - “Web Cam in a Webpage Using Flask and Python,” www.stackoverflow.com, 20 Feb. 2019.
 - “Sign Language Detection with Python and Scikit Learn,” www.youtube.com, Computer Vision Engineer, 26 Jan. 2023.
+
+## Team Members 
+
+Rinad Almjishai 
+
+Wael habib Alkiyani
+
+Jawad Abdullah Sherbini 
+
+Albatul Ali Abusaq
+
+Luluh Khalid Alyahya
+
+Yasser Ahmed Alzahrani
+
+Ali Abu Ali 
+
